@@ -13,6 +13,6 @@ Hi, my name is Dhruvpuri Goswami and I am a full-stack web developer with a stro
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvpuri-Goswami&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DhruvpuriGoswami&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Dhruvpuri-Goswami&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
