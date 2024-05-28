@@ -2,9 +2,9 @@
 Hello! I'm **Dhruvpuri Goswami**, a passionate full-stack web developer with a robust background in PHP. Having recently completed my diploma with an impressive CGPA of 9.74, I am now pursuing my B.E. at L.D. College of Engineering. Over the years, I've honed my skills by developing numerous projects, focusing on creating innovative and user-friendly web applications. I specialize in **WordPress**, **HTML**, **CSS**, **JavaScript**, **PHP**, and **Django**. I thrive on new challenges and am always eager to expand my expertise. I look forward to collaborating and showcasing my work here on GitHub!
 
 ## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvpuri.goswami) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DHRUVPURIGOSWAMI) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_dhruvpuri_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhruvpuri_goswami) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvpuri_goswami) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mr_dhruvpuri) 
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
