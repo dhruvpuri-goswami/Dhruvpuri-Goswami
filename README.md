@@ -11,7 +11,7 @@ Hello! I'm **Dhruvpuri Goswami**, a passionate full-stack web developer with a r
 ## 🚀 What I'm up to:
 - 🔭 I’m currently working on **SearchX Global Service Pvt. Ltd.**
 - 🌱 I’m currently learning **Laravel and exploring the latest in WordPress plugin development.**
-- ⚡ Fun fact: **Just like Tony Stark loves his tech, I love coding! Whether it's building powerful web apps or creating smart solutions, <br> I always aim to bring a bit of superhero innovation to my projects.**
+- ⚡ Fun fact: **Just like Tony Stark loves his tech, I love coding! Whether it's building powerful web apps or creating smart solutions, I always aim to bring a bit of superhero innovation to my projects.**
 
 ## 📝 Latest Articles
 I regularly write articles on [my blog](https://www.edugtu.in/).
