@@ -47,9 +47,6 @@ Check out my experiences [here](https://tinyurl.com/bdzhrhwe).
   <a href="https://github.com/dhruvpuri-goswami">
     <img src="https://github-readme-stats.vercel.app/api?username=dhruvpuri-goswami&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Dhruvpuri's GitHub Stats" />
   </a>
-  <a href="https://github.com/dhruvpuri-goswami">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvpuri-goswami&theme=dark&hide_border=false" alt="Dhruvpuri's Streak Stats" />
-  </a>
 </p>
 <p align="center">
   <a href="https://github.com/dhruvpuri-goswami">
@@ -64,10 +61,4 @@ Check out my experiences [here](https://tinyurl.com/bdzhrhwe).
   </a>
 </p>
 <hr>
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=dhruvpuri-goswami&icon=0&color=0" alt="Profile Visits" />
-  </a>
-</p>
-
 
